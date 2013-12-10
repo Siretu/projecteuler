@@ -1,4 +1,4 @@
 projecteuler
 ============
 
-Project Euler solutions done in Haskell
+Project Euler solutions done (mostly) in Haskell
